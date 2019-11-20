@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticaParcial_RC</string>
+    <string name="btnJuego">Juego</string>
+    <string name="btnConfiguracion">Configuracion</string>
+    <string name="btnPuntuacion">Puntuacion</string>
+    <string name="NNombre">Nombre</string>
+    <string name="N_intentos">Intentos Realizados : </string>
+    <string name="Registrar">Registrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="username">username</string>
+</resources>

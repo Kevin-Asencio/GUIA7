@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnJuego"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnJuego"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/boton_radius"
+        android:textColor="@android:color/white"
+        />
+    <Button
+        android:id="@+id/btnPuntuacion"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnPuntuacion"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/boton_radius"
+        android:textColor="@android:color/white"
+        />
+    <Button
+        android:id="@+id/btnVer"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Ver Numero"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/boton_radius"
+        android:textColor="@android:color/white"
+        />
+
+</LinearLayout>
